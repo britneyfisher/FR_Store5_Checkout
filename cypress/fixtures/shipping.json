@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "firstname": "Linda",
+      "lastname": "Johnson",
+      "email": "lindajohnson010101@gmail.com",
+      "street": "221 Mcdowell St",
+      "city": "Brandon",
+      "postalCode": "39042",
+      "phoneNumber": "(769) 323-2536"
+    },
+
+    {
+      "firstname": "Jill",
+      "lastname": "Scott",
+      "email": "jillscott010101@gmail.com",
+      "street": "902 Shiloh Road",
+      "city": "Brandon",
+      "postalCode": "39042",
+      "phoneNumber": "(601) 323-2536"
+    },
+
+    {
+      "firstname": "Jane",
+      "lastname": "Scott",
+      "email": "janescott010101@gmail.com",
+      "street": "540 East Ridge Lane",
+      "city": "Alpharetta",
+      "postalCode": "30004",
+      "phoneNumber": "(318) 987-2536"
+    },
+
+    {
+      "firstname": "Nelly",
+      "lastname": "West",
+      "email": "nellywest010101@gmail.com",
+      "city": "flowood",
+      "postalCode": "39043",
+      "phoneNumber": "(601) 291-3013"
+    },
+
+    {
+      "firstname": "Braylen",
+      "lastname": "Jackson",
+      "email": "braylenjackson010101@gmail.com",
+      "postalCode": "39213",
+      "phoneNumber": "(601) 291-8034"
+    }
+  ]
+}
